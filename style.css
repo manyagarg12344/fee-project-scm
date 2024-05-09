@@ -4,6 +4,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+/*     multiple selector */
 }
 
 body {
@@ -27,7 +28,7 @@ body {
 }
 
 .date-container .time {
-    font-size: 70px;
+    font-size: 71px;
     font-weight: 100;
 }
 
@@ -50,7 +51,7 @@ body {
 }
 
 .place-container .country {
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 700;
 }
 
@@ -109,7 +110,7 @@ body {
     align-items: center;
     justify-content: center;
     margin: 0 10px;
-    border: 1px solid #eee;
+    border: 1.5px solid #eee;
     border-radius: 10px;
 }
 
@@ -165,7 +166,7 @@ body {
     }
 
     .current-info .others .weather-item {
-        font-size: 14px;
+        font-size: 13px;
     }
 }
 
